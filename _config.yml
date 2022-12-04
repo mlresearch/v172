@@ -1,0 +1,99 @@
+---
+booktitle: Proceedings of The 5th International Conference on Medical Imaging with
+  Deep Learning
+shortname: MIDL
+volume: '172'
+year: '2022'
+start: 2022-07-06
+end: 2022-07-08
+published: 2022-12-04
+url: https://proceedings.mlr.press
+conference_number: '5'
+sections:
+- name: Preface
+  title: Preface
+- name: Contributed Papers
+  title: Contributed Papers
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: midl22
+month: 0
+cycles: false
+bibtex_editor: Konukoglu, Ender and Menze, Bjoern and Venkataraman, Archana and Baumgartner,
+  Christian and Dou, Qi and Albarqouni, Shadi
+editor:
+- given: Ender
+  family: Konukoglu
+- given: Bjoern
+  family: Menze
+- given: Archana
+  family: Venkataraman
+- given: Christian
+  family: Baumgartner
+- given: Qi
+  family: Dou
+- given: Shadi
+  family: Albarqouni
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of The 5th International Conference on Medical Imaging with Deep Learning
+    Held in Zurich, Switzerland on 06-08 July 2022
+
+  Published as Volume 172 by the Proceedings of Machine Learning Research on 04 December 2022.
+
+  Volume Edited by:
+    Ender Konukoglu
+    Bjoern Menze
+    Archana Venkataraman
+    Christian Baumgartner
+    Qi Dou
+    Shadi Albarqouni
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 06--08 Jul
+author:
+  name: PMLR
+baseurl: "/v172"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: lawrennd/proceedings
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v172
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v172
+email: ''
+conference:
+  name: International Conference on Medical Imaging with Deep Learning
+  url:
+  location: Zurich, Switzerland
+  dates:
+  - 2022-07-06
+  - 2022-07-07
+  - 2022-07-08
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v172/midl22.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v172/midl22.bib
